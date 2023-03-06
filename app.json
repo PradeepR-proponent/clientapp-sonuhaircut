@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "clientapp",
-    "slug": "clientapp",
-    "version": "1.0.1",
+    "name": "sonuhaircut",
+    "slug": "sonuhaircut",
+    "version": "2.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -25,14 +25,15 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.sonuhaircut.client"
+      "versionCode": 20,
+      "package": "com.sonuhaircut"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "17d95fe3-6de3-4739-a672-2f19fe9259ac"
+        "projectId": "940cf4ce-aac2-4654-b998-85cfa4f0edee"
       }
     }
   }
