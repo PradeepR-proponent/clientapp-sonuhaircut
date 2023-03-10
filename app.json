@@ -2,7 +2,7 @@
   "expo": {
     "name": "sonuhaircut",
     "slug": "sonuhaircut",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -18,14 +18,15 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sonuhaircut"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "versionCode": 20,
+      "versionCode": 21,
       "package": "com.sonuhaircut"
     },
     "web": {
